@@ -1,17 +1,10 @@
 # PIM-IV
-PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2020
+PIM IV do curso Análise e Desenvolvimento de Sistemas, UNIP 2022
 
-## Integrantes
+## RA
 
-2017581 - BRUNO SAPALACIO MINEIRO (líder)
-
-2009202 - ALBERTO SENNA DIAS NETO
-
-2022929 - LEANDRO PEREIRA COSTA
-
-2000290 - PAULO HENRIQUE MENEZES DE SOUZA
-
-2025264 - SOLIMAR MARCONDES DE MELO
+JOSE VENICIOS SANTANA DE ANDRADE
+2283837
 
 ## Descrição do Problema
 
